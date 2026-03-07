@@ -15,7 +15,7 @@ This project answers questions every marketing team asks daily:
 - *"Which e-commerce platforms have the highest customer satisfaction?"*
 - *"How does revenue trend month over month?"*
 
-It does this by combining **two real datasets** — social media sentiment and e-commerce transactions — into a single visual dashboard.
+It does this by combining **two real datasets** - social media sentiment and e-commerce transactions - into a single visual dashboard.
 
 ---
 
@@ -36,7 +36,7 @@ It does this by combining **two real datasets** — social media sentiment and e
 
 ## 📈 Key Findings
 
-- **78.7%** of social posts are Neutral — indicating a large untapped audience for brand engagement campaigns
+- **78.7%** of social posts are Neutral - indicating a large untapped audience for brand engagement campaigns
 - **Xiaomi** leads in total revenue (~$33.7M), followed closely by Nike and FitPro
 - **Electronics** dominates category revenue share
 - Monthly revenue trends show consistent growth patterns throughout the year
@@ -46,16 +46,16 @@ It does this by combining **two real datasets** — social media sentiment and e
 
 ## 🔍 What the Dashboard Shows
 
-**Row 1 — Social Media Intelligence**
+**Row 1 - Social Media Intelligence**
 - Overall sentiment breakdown (Positive / Neutral / Negative)
 - Sentiment comparison across Twitter, Instagram, Facebook
 - Top countries by post volume
 
-**Row 2 — Revenue Performance**
+**Row 2 - Revenue Performance**
 - Month-over-month revenue trend with labels
 - Revenue split by product category
 
-**Row 3 — Brand & Platform Analysis**
+**Row 3 - Brand & Platform Analysis**
 - Top 10 brands ranked by total revenue
 - Average customer rating by e-commerce platform
 
