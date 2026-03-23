@@ -110,12 +110,7 @@ python analysis.py
 
 ---
 
-## 👤 Author
 
-**[Your Name]**  
-Aspiring Marketing Analyst | Data-Driven Storyteller  
-📧 your.email@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
